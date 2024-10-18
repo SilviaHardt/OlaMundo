@@ -14,22 +14,16 @@ export default function SobreMim() {
         className={styles.fotoSobreMim}
       />
       <p className={styles.paragrafo}>
-        ...
+        Sou estudante da Alura, e atualmente estou focando no aprendizado de front-end.
       </p>
       <p className={styles.paragrafo}>
-        ...
+        Sou formada em Gestão de Recursos Humanos, e após alguns anos na área, decidi buscar uma nova aventura.
       </p>
       <p className={styles.paragrafo}>
-        ...
+        Decidi estudar desevolvimento por pura curiosidade em como as famosas telas pretas funcionava, e após alguns cursos, me encantei cada vez mais e decidi encarar esse novo desafio.
       </p>
       <p className={styles.paragrafo}>
-        ...
-      </p>
-      <p className={styles.paragrafo}>
-        ...
-      </p>
-      <p className={styles.paragrafo}>
-        ...
+        Espero em breve conseguir meu primeiro emprego como desenvolvedora para poder atuar no ramo e aprender cada vez mais.
       </p>
     </PostModelo>
   );
